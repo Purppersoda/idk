@@ -41,11 +41,70 @@ class Florence{
 	public:
 	int oponente1;
 	int oponente2;
-	int poderesnormales;
-	int poderesespeciales;
+	int latigo filoso;
+	int tinieblas;
+	int mascara umbria;
+	int megrot;
+	int hoja sombra;
+	int ciclon fantasma;
+	rafaga de espinas;
 	public:
 	void nivel1(){
 		switch(florence){
+			dialogos();
+			cout<<"Ahora que tomaste la decisión de continuar tú aventura en conjunto de Florence sales del casino caminando a su lado.
+			No evitas la sorpresa en tu interior al notar que pareces agradarle, debido a que, en realidad podría desvanecerse de tu vista u aterrorizarte para huir de tu lado, una sonrisa se esboza en tu rostro ante el pensamiento."<<endl;
+	esperar(2*1000);
+	cin.get();
+		system("cls"); 
+			cout<<"La caminata no se extiende demasiado, puedes sentir la mirada de alguien postrada sobre ti en la lejanía, a pesar de que todos en el pueblo son extraños, esa mirada en particular se siente pesada, es casi perturbador"<<endl;
+	esperar(2*1000);
+	cin.get(); 
+			cout<<"su postura erguida; su bigote grueso y desaliñado; los ojos azules vidriosos que se fijan en ti y Florence; la forma en que se relame los labios antes de sonreír envía un escalofrío por tu espalda. El tipo es viejo y definitivamente, tampoco parece agradarle a Florence, quién también ha notado su presencia."<<endl;
+	esperar(2*1000);
+	cin.get();
+		system("cls"); 
+			cout<<"Se acerca sonriéndote con los labios torcidos de una forma que consideras grotesca, le rezas a Arqueus porque no sea un anciano asqueroso al que debas patearle las piernas. Ya has tenido suficiente con las sonrisas casi plásticas de todos los que has visto por la zona."<<endl;
+	esperar(2*1000);
+	cin.get();
+		system("cls"); 
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+			cout<<""<<endl;
+	esperar(2*1000);
+	cin.get();
+	
 			case des1:
 			break;
 			case des2:
