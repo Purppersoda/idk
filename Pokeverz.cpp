@@ -3,7 +3,7 @@
 #include<ctime>
 #include<wchar.h>
 #include<stdlib.h>
-//idk
+//idk había una vez un patito chikitito ugu
 #include<windows.h>
 #include<mmsystem.h>
 //para los dialogos
